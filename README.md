@@ -1,0 +1,2 @@
+# Somatosensory-control-car-based-on-kinect
+Elderly people with limited mobility often need smart assistive devices. For the elderly, it is more difficult to use a complex controller. Therefore, we plan to design a smart car robot based on human posture recognition. The robot is controlled by the Raspberry Pi and can distinguish different postures based on the human bones recognized by the kinect, such as steering, forward, backward, camera steering, and robotic arm pitching. , End effector opening and closing operations.
