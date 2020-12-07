@@ -14,3 +14,5 @@ Elderly people with limited mobility often need smart assistive devices. For the
 5) OpenCV2: used for image processing, drawing, displaying images, etc.
 6) Pthread: Multithreaded package, manages multithreaded code.
 7) Kinect SDKs for Windows: some link libraries and header files related to Kinect.
+
+For development environment and configuration, please refer to teammate Lu Yifan’s blog: https://blog.csdn.net/qq_15036691/article/details/109995188
